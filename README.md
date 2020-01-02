@@ -56,6 +56,12 @@
 - [Experience Researcher Intern At Airbnb, Seattle, WA](https://careers.airbnb.com/positions/1849181/)
 - [Software Engineering Intern At Two Sigma, NYC](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Software-Engineering-Internship-NYC/5982?source=LinkedIn)
 
+- Find More At The Following 
+-- [LinkedIn](http://linkedin.com/)
+-- [csinterns for my Comp Sci People](https://www.csinterns.com/)
+-- [Indeed](https://www.indeed.com/)
+-- [internships.com](https://www.internships.com/engineering)
+
 ## Research 
 
 ###### In-State
