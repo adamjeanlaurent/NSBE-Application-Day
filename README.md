@@ -5,10 +5,8 @@
 ## Scholarships
 - [MarvelOptics Scholarship Essay Contest](https://www.fastweb.com/college-scholarships/scholarships/165891)
 - [Express Medical Supply Scholarship](https://www.fastweb.com/college-scholarships/scholarships/166137)
-
 - [Mensa Foundation U.S Scholarship](https://www.fastweb.com/college-scholarships/scholarships/150224)
 - [Girls Impact The World Film Festival Scholarship](https://www.fastweb.com/college-scholarships/scholarships/159658)
-
 - [Live Mas Scholarship](https://www.fastweb.com/college-scholarships/scholarships/170486)
 - [Admiral Grace Murray Hopper Scholarship](https://swe.org/scholarships/admiral-grace-murray-hopper-scholarship-est-1992/)
 - [Anne Maureen Whitney Barrow Memorial Scholarship](https://swe.org/scholarships/anne-maureen-whitney-barrow-memorial-scholarship-est-1991/)
