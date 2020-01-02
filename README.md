@@ -54,7 +54,6 @@
 - [Software Engineering Intern Twitter, San Francisco, CA](https://jobs.smartrecruiters.com/oneclick-ui/company/122273559/job/1514470938/publication/743999696971770)
 - [Experience Researcher Intern At Airbnb, Seattle, WA](https://careers.airbnb.com/positions/1849181/)
 - [Software Engineering Intern At Two Sigma, NYC](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Software-Engineering-Internship-NYC/5982?source=LinkedIn)
-
 - Find More At The Following 
 [LinkedIn](http://linkedin.com/)
 ,[csinterns for my Comp Sci People](https://www.csinterns.com/)
