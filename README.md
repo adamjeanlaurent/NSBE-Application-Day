@@ -3,6 +3,17 @@
 ## Full-Time
 
 ## Scholarships
+- [MarvelOptics Scholarship Essay Contest](https://www.fastweb.com/college-scholarships/scholarships/165891)
+- [Express Medical Supply Scholarship](https://www.fastweb.com/college-scholarships/scholarships/166137)
+
+- [Mensa Foundation U.S Scholarship](https://www.fastweb.com/college-scholarships/scholarships/150224)
+- [Girls Impact The World Film Festival Scholarship](https://www.fastweb.com/college-scholarships/scholarships/159658)
+
+- [Live Mas Scholarship](https://www.fastweb.com/college-scholarships/scholarships/170486)
+- [Admiral Grace Murray Hopper Scholarship](https://swe.org/scholarships/admiral-grace-murray-hopper-scholarship-est-1992/)
+- [Anne Maureen Whitney Barrow Memorial Scholarship](https://swe.org/scholarships/anne-maureen-whitney-barrow-memorial-scholarship-est-1991/)
+- [Ada I. Pressman Memorial Scholarship](https://swe.org/scholarships/ada-i-pressman-memorial-scholarship-est-2004/)
+- [More SWE Scholarships](https://swe.org/scholarships/)
 
 ## Internships
 ###### In-State
@@ -48,7 +59,7 @@
 - [Coastal And Evironmental Fellowship](https://web.uri.edu/coastalfellows/)
 - [Cultivating Change Multicultural Scholars Program](https://web.uri.edu/cels/msp-app/)
 - [Science And Engineering Fellows Program](https://web.uri.edu/cels/sef-application/)
-- [URI CELS Reasearch Oppurtunites](https://web.uri.edu/cels/academics/experiential-learning-opportunities-and-resources/)
+- [URI CELS Research Opportunities](https://web.uri.edu/cels/academics/experiential-learning-opportunities-and-resources/)
 
 ###### Out Of State
 - [Research Intern At Facebook, Boston, MA](https://www.facebook.com/careers/v2/jobs/520165665499001/?ref=a8lA00000004CFAIA2)
@@ -56,3 +67,5 @@
 - [Research Intern At Microsoft, NYC](https://careers.microsoft.com/us/en/job/736979/Undergrad-Research-Intern-NYC-Labs?jobsource=linkedin&utm_source=linkedin&utm_medium=linkedin&utm_campaign=linkedin-feed)
 - [Research Intern At Google, Princeton, NJ](https://careers.google.com/jobs/results/94168920430125766-research-intern/?src=Online%2FLinkedIn%2Flinkedin_us&utm_campaign=contract&utm_medium=jobposting&utm_source=linkedin)
 - [Autopilot Research Intern At Tesla, Palo Alto, CA](https://www.tesla.com/careers/job/id=53757)
+- [AMGEN Scholars Program](https://amgenscholars.com/)
+- [Doris Duke Conservation Scholars Program At UC Santa Cruz](https://conservationscholars.ucsc.edu/)
