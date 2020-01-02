@@ -8,12 +8,12 @@
 - [Anne Maureen Whitney Barrow Memorial Scholarship](https://swe.org/scholarships/anne-maureen-whitney-barrow-memorial-scholarship-est-1991/)
 - [Ada I. Pressman Memorial Scholarship](https://swe.org/scholarships/ada-i-pressman-memorial-scholarship-est-2004/)
 - [More SWE Scholarships](https://swe.org/scholarships/)
-- Find More At The Following
- -- [College Scholarships.org](http://www.collegescholarships.org/scholarships/engineering-students.htm)
- -- [Finaid.org](https://finaid.org/scholarships/)
- -- [Scholarships.org](https://www.scholarships.com/financial-aid/college-scholarships/scholarships-by-major/engineering-scholarships/)
- -- [54 Best Engineering Internships](https://blog.prepscholar.com/engineering-scholarships)
- -- [ASHRAE](https://www.ashrae.org/communities/student-zone/scholarships-and-grants/undergraduate-engineering-scholarships)
+- Find More At The Following: 
+ [College Scholarships.org](http://www.collegescholarships.org/scholarships/engineering-students.htm)
+ ,[Finaid.org](https://finaid.org/scholarships/)
+ ,[Scholarships.org](https://www.scholarships.com/financial-aid/college-scholarships/scholarships-by-major/engineering-scholarships/)
+ ,[54 Best Engineering Internships](https://blog.prepscholar.com/engineering-scholarships)
+ ,[ASHRAE](https://www.ashrae.org/communities/student-zone/scholarships-and-grants/undergraduate-engineering-scholarships)
 
 
 
