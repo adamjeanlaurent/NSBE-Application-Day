@@ -41,4 +41,18 @@
 - [Software Engineering Intern Twitter, San Francisco, CA](https://jobs.smartrecruiters.com/oneclick-ui/company/122273559/job/1514470938/publication/743999696971770)
 - [Experience Researcher Intern At Airbnb, Seattle, WA](https://careers.airbnb.com/positions/1849181/)
 - [Software Engineering Intern At Two Sigma, NYC](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Software-Engineering-Internship-NYC/5982?source=LinkedIn)
+
 ## Research 
+
+###### In-State
+- [Coastal And Evironmental Fellowship](https://web.uri.edu/coastalfellows/)
+- [Cultivating Change Multicultural Scholars Program](https://web.uri.edu/cels/msp-app/)
+- [Science And Engineering Fellows Program](https://web.uri.edu/cels/sef-application/)
+- [URI CELS Reasearch Oppurtunites](https://web.uri.edu/cels/academics/experiential-learning-opportunities-and-resources/)
+
+###### Out Of State
+- [Research Intern At Facebook, Boston, MA](https://www.facebook.com/careers/v2/jobs/520165665499001/?ref=a8lA00000004CFAIA2)
+- [Machine Learning Research Intern At Apple, Seattle, WA](https://jobs.apple.com/en-us/details/200074277/ml-research-intern?team=MLAI&board_id=17682)
+- [Research Intern At Microsoft, NYC](https://careers.microsoft.com/us/en/job/736979/Undergrad-Research-Intern-NYC-Labs?jobsource=linkedin&utm_source=linkedin&utm_medium=linkedin&utm_campaign=linkedin-feed)
+- [Research Intern At Google, Princeton, NJ](https://careers.google.com/jobs/results/94168920430125766-research-intern/?src=Online%2FLinkedIn%2Flinkedin_us&utm_campaign=contract&utm_medium=jobposting&utm_source=linkedin)
+- [Autopilot Research Intern At Tesla, Palo Alto, CA](https://www.tesla.com/careers/job/id=53757)
