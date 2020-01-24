@@ -5,7 +5,7 @@
  [College Scholarships.org](http://www.collegescholarships.org/scholarships/engineering-students.htm)
  ,[Finaid.org](https://finaid.org/scholarships/)
  ,[Scholarships.org](https://www.scholarships.com/financial-aid/college-scholarships/scholarships-by-major/engineering-scholarships/)
- ,[54 Best Engineering Internships](https://blog.prepscholar.com/engineering-scholarships)
+ ,[54 Best Engineering Scholarships](https://blog.prepscholar.com/engineering-scholarships)
  ,[ASHRAE](https://www.ashrae.org/communities/student-zone/scholarships-and-grants/undergraduate-engineering-scholarships)
 - [MarvelOptics Scholarship Essay Contest](https://www.fastweb.com/college-scholarships/scholarships/165891)
 - [Express Medical Supply Scholarship](https://www.fastweb.com/college-scholarships/scholarships/166137)
