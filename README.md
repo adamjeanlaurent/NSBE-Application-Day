@@ -1,6 +1,12 @@
 # URI NSBE Application Day February 2nd 2020
 
 ## Scholarships
+- Find More At The Following: 
+ [College Scholarships.org](http://www.collegescholarships.org/scholarships/engineering-students.htm)
+ ,[Finaid.org](https://finaid.org/scholarships/)
+ ,[Scholarships.org](https://www.scholarships.com/financial-aid/college-scholarships/scholarships-by-major/engineering-scholarships/)
+ ,[54 Best Engineering Internships](https://blog.prepscholar.com/engineering-scholarships)
+ ,[ASHRAE](https://www.ashrae.org/communities/student-zone/scholarships-and-grants/undergraduate-engineering-scholarships)
 - [MarvelOptics Scholarship Essay Contest](https://www.fastweb.com/college-scholarships/scholarships/165891)
 - [Express Medical Supply Scholarship](https://www.fastweb.com/college-scholarships/scholarships/166137)
 - [Mensa Foundation U.S Scholarship](https://www.fastweb.com/college-scholarships/scholarships/150224)
@@ -10,16 +16,13 @@
 - [Anne Maureen Whitney Barrow Memorial Scholarship](https://swe.org/scholarships/anne-maureen-whitney-barrow-memorial-scholarship-est-1991/)
 - [Ada I. Pressman Memorial Scholarship](https://swe.org/scholarships/ada-i-pressman-memorial-scholarship-est-2004/)
 - [More SWE Scholarships](https://swe.org/scholarships/)
-- Find More At The Following: 
- [College Scholarships.org](http://www.collegescholarships.org/scholarships/engineering-students.htm)
- ,[Finaid.org](https://finaid.org/scholarships/)
- ,[Scholarships.org](https://www.scholarships.com/financial-aid/college-scholarships/scholarships-by-major/engineering-scholarships/)
- ,[54 Best Engineering Internships](https://blog.prepscholar.com/engineering-scholarships)
- ,[ASHRAE](https://www.ashrae.org/communities/student-zone/scholarships-and-grants/undergraduate-engineering-scholarships)
-
-
 
 ## Internships
+- Find More At The Following 
+[LinkedIn](http://linkedin.com/)
+,[csinterns for my Comp Sci People](https://www.csinterns.com/)
+,[Indeed](https://www.indeed.com/)
+,[internships.com](https://www.internships.com/engineering)
 ###### In-State
 - [Systems Engineering Intern At Open Learning Exchange](https://www.linkedin.com/jobs/view/systems-engineering-intern-at-open-learning-exchange-1611318183/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
 - [Engineering Intern Summer 2020 At Navatek LLC](https://www.linkedin.com/jobs/view/engineering-intern-summer-2020-at-navatek-llc-1646755322/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
@@ -56,11 +59,6 @@
 - [Software Engineering Intern Twitter, San Francisco, CA](https://jobs.smartrecruiters.com/oneclick-ui/company/122273559/job/1514470938/publication/743999696971770)
 - [Experience Researcher Intern At Airbnb, Seattle, WA](https://careers.airbnb.com/positions/1849181/)
 - [Software Engineering Intern At Two Sigma, NYC](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Software-Engineering-Internship-NYC/5982?source=LinkedIn)
-- Find More At The Following 
-[LinkedIn](http://linkedin.com/)
-,[csinterns for my Comp Sci People](https://www.csinterns.com/)
-,[Indeed](https://www.indeed.com/)
-,[internships.com](https://www.internships.com/engineering)
 
 ## Research 
 
