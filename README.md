@@ -24,6 +24,11 @@
 ,[Indeed](https://www.indeed.com/)
 ,[internships.com](https://www.internships.com/engineering)
 ###### In-State
+- [PrepareRI College Internship Program](https://skillsforri.com/prepare-ri-college-internship-program)
+- [2020 Summer Supply Chain/Engineering Internship At Johnson & Johnson](https://jobs.jnj.com/jobs/1968191216?lang=en-us&src=JB-10280&src=JB-10280)
+- [Intern - Application Engineering At Infineon](https://www.infineon.com/cms/en/careers/jobsearch/jobsearch/300779-Intern-Application-Engineering/#!source=400)
+- [Engineering Intern (Data Engineering Team)](https://careers-virginpulse.icims.com/jobs/1041/engineering-intern-%2528data-engineering-team%2529/job?s=LinkedIn&mode=job&iis=Job+Board&iisn=LinkedIn)
+- [2020 Design & Engineering Summer Intern](https://www.manufacturingworkers.com/jobs/search?id=1121036039&aff=16AE119E-722C-4962-8098-083243C4FF3F&rgv=3&mlp=1)
 - [Systems Engineering Intern At Open Learning Exchange](https://www.linkedin.com/jobs/view/systems-engineering-intern-at-open-learning-exchange-1611318183/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
 - [Engineering Intern Summer 2020 At Navatek LLC](https://www.linkedin.com/jobs/view/engineering-intern-summer-2020-at-navatek-llc-1646755322/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
 - [Systems Engineering Intern At The Job Network](https://www.linkedin.com/jobs/view/systems-engineering-intern-at-the-job-network-1665751011/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
@@ -43,8 +48,10 @@
 - [Automated Information Systems Intern At Amgen](https://www.applytracking.com/x.aspx?method=direct&type=apply&board=D92FCD45-1292-4AE2-B555-D7A273418B42&Job=R-90566&ClientCode=17267)
 
 ###### Out Of State
+- [Operations Engineering Intern](https://thermofisher.contacthr.com/73784861?refId=34jd24)
 - [R&D Leadership Development Internship Summer 2020 At Johnson & Johnson, Raytham, MA](https://www.linkedin.com/job-apply/1665227856?refId=44859e1f-aad9-4bec-aace-7ce66f01f114&trk=flagship3_search_srp_jobs)
 - [Engineering Intern At SoFI, San Francisco, CA](http://jobs.jobvite.com/sofi/job/ouYfbfwC?%26s=LinkedIn&__jvst=Job+Board&__jvsd=LinkedIn)
+- [Engineering Co-op](https://ashland.wd1.myworkdayjobs.com/en-US/AshlandCareers1/job/US-MA-ASSONET/Engineering-Co-op_2019-685)
 - [Engineering Intern at Mercedes-Benz, Sunnyvale, CA](https://daimler.taleo.net/careersection/ex/jobdetail.ftl?job=405584&lang=en&portal=101430233)
 - [Mobile Client Engineering Intern At Warner Bros. Entertainment, Needham, MA](https://careers.warnermediagroup.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=391&siteid=36&jobId=830441)
 - [Engineering Co-Op At Environmental Partners, Woburn MA](https://recruiting.paylocity.com/recruiting/jobs/Details/192046/Environmental-Partners-Group-Inc/Engineering-Co-Op?source=JobTarget%20via%20LinkedIn%20PGM%20-%20Variable%20Placement&utm_source=JobTarget&utm_medium=LinkedIn%20PGM%20-%20Variable%20Placement&utm_campaign=Engineering%20Co-Op%20(192046)&_jtochash=p7OX5XIDoNkjI2RKINEQp&_jtocprof=Vk8CnNetB-K33V4iPVxgRq1bAbskWkH_)
@@ -63,6 +70,8 @@
 ## Research 
 
 ###### In-State
+- [List Of Opportunities From NSBE Drive (If You Don't Have Access Ask Me)](https://docs.google.com/document/d/1diRGUwe-jlDUiBldQKR9ZeVupuAkOL98ug21Go1noU0/edit)
+- [URI MARC U*STAR Program ](https://docs.google.com/forms/d/e/1FAIpQLScHQ1SynaxIS1toT5LERZ2RtKS71BnfL-TSfpjkUGe-L0xinw/viewform)
 - [Coastal And Evironmental Fellowship](https://web.uri.edu/coastalfellows/)
 - [Cultivating Change Multicultural Scholars Program](https://web.uri.edu/cels/msp-app/)
 - [Science And Engineering Fellows Program](https://web.uri.edu/cels/sef-application/)
